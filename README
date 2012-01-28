@@ -1,0 +1,21 @@
+==============
+About JInvoice
+==============
+
+JInvoice is a desktop application for managing the daily collection and transactions of a small firm. User can create new clients or update the data, also could see the summary of all the invoices together. It is implemented in Java and uses MySql as a database for storing the invoices.
+
+===========
+Compilation
+===========
+$javac JInvoice.java
+
+=========
+Execution
+=========
+$java JInvoice
+
+=====
+Usage
+=====
+ - Executing the program opens a small login window so that only the invoice manager could see/add/update the invoices.
+ - After that, the main app window will open on which user can add/update clients/invoices or could see the summarized collection of his firm.
